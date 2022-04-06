@@ -87,6 +87,7 @@ section p {
 button {
   color: white;
   font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
 
   background: #69b99d;
   border: 0;
@@ -120,6 +121,7 @@ footer a {
 }
 
 #balls {
+  position: fixed;
   bottom: 0;
   right: 0;
 }
